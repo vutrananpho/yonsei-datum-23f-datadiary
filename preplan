@@ -1,0 +1,51 @@
+# Yonsei DATUM Job Portal Preplan Report
+[Check out our docx!](https://docs.google.com/document/d/1DyR2lCdJBiV6LWQlUkDYK5zMYi_rb5BfuUuO2GDjfVc/edit?usp=sharing])
+
+## Introduction
+
+Welcome to the Yonsei DATUM Club's Job Portal project for international students in South Korea. This repository is the central hub for our efforts to create a platform that facilitates job hunting and provides valuable insights for international students in South Korea, particularly those graduating from Korean universities.
+
+## Project Overview
+### Sub-plan
+Our project involves several key components:
+
+1. **Database Development**: We will create a database that houses relevant job hunting statistics in South Korea. This data will serve as the foundation for our analyses.
+
+2. **Data Analysis and Visualization**: Using the database, we will generate graphs and visualizations to gain insights into the job market for foreign students graduating from Korean universities.
+
+3. **Web Scraping**: We will employ web scraping techniques, both manual and automated, to collect data from various sources, including job openings from company websites and job portals.
+
+### Tools
+To accomplish our goals, we will utilize the following tools and resources:
+
+- **Database**: Notable.io will replace Google Colab and Jupyter Notebook to overcome technical limitations.
+
+- **Data Collection**: Kaggle will be used to gather datasets, and we will also explore new programming knowledge.
+
+- **Research**: Google Scholar will provide insights into the proportion of foreign workers employed by nationality, industry, and other relevant factors, along with information about foreign job portals.
+
+- **Job Listings**: We will source job listings from various platforms, including Career | K-campus, UIC Careers Page, Yonsei GSIS Page, LinkedIn's "Jobs" section, JOBKOREA, Saramin, Seoul Foreign Portal, Seoul Craigslist, Wanted, and Job Planet.
+
+### Communications
+Our primary mode of communication will be through KakaoTalk. We will also use Google Drive to maintain a shared folder (23-2 Yonsei DATUM) for collaborative document management.
+
+### Additional Plans
+- **GitHub Page**: We are considering creating a GitHub Page to showcase our project's progress and findings.
+
+- **Team Introduction**: We plan to introduce our team members, fostering a sense of community and collaboration among our members and potential users.
+
+## Getting Started
+To contribute to this project, please follow these steps:
+
+1. Clone the repository to your local machine.
+2. Create a virtual environment and install the necessary dependencies.
+3. Start working on the designated tasks outlined in the project board.
+
+## Team Members
+- [Pho Vu/2020195167] (phovu0703@yonsei.ac.kr)
+- [Carla Kim Gaieski/2020195176] (
+- [Vivian]
+- Paulina
+- [Seung ah (Sarah)/2022195105]
+
+
