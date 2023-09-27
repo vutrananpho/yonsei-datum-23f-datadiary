@@ -6,7 +6,7 @@ Welcome to the Yonsei DATUM's project for international students in South Korea.
 
 ## About Us 👩🏻‍💻
 
-We are [Pho Vu](https://github.com/vutrananpho), [Carla Kim Gaieski](https://github.com/carlakim), [Seungah (Sarah)](https://github.com/Seungarah), Vivian, and Paulina,
+We are [Pho Vu](https://github.com/vutrananpho), [Carla Kim Gaieski](https://github.com/carlakim), [Seungah (Sarah)](https://github.com/Seungarah), Vivian, and Paulina.
 
 ## Semester Project: Job Portal for International Students 🌏
 
@@ -53,5 +53,5 @@ To contribute to our project or stay updated with our progress:
 
 Our primary purpose is to empower international students in South Korea by providing them with a comprehensive job portal. We believe that international students bring unique skills and perspectives to the table, and our project aims to bridge the gap between this talented pool of individuals and the job opportunities available in South Korea. All in all, let's make it a success!
 
-Date: Sep 21, 2023
-Prepared by: Pho Vu
+- Date: Sep 21, 2023
+- Prepared by: Pho Vu
