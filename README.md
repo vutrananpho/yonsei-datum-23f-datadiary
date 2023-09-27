@@ -1,10 +1,14 @@
-# Yonsei DATUM Job Portal for International Undergraduate Students in South Korea 🇰🇷
+# Yonsei DATUM _Job Portal for International Students in SK 🇰🇷
 
 ## Project Overview 🚀
 
-Welcome to the Yonsei DATUM Club's Job Portal project for international students in South Korea. This repository serves as our central platform for tracking weekly progress and sharing project updates.
+Welcome to the Yonsei DATUM's project for international students in South Korea. This repository serves as our central platform for tracking weekly progress and sharing project updates.
 
-## Semester Project: Job Portal for International Students
+## About Us 👩🏻‍💻
+
+We are [Pho Vu](https://github.com/vutrananpho), [Carla Kim Gaieski](https://github.com/carlakim), [Seungah (Sarah)](https://github.com/Seungarah), Vivian, and Paulina,
+
+## Semester Project: Job Portal for International Students 🌏
 
 Our primary goal for the Fall 2023 semester is to create a comprehensive job portal tailored to the needs of international students in South Korea. We aim to bridge the gap between talented international students and job opportunities in the region. Our project involves:
 
@@ -45,9 +49,9 @@ To contribute to our project or stay updated with our progress:
 2. **Participate in Discussions**: Join the discussions in the repository to share ideas and provide feedback.
 3. **Weekly Updates**: Check back regularly for our weekly progress updates.
 
-## Our Hope 🌏
+## Why We Do This 💌
 
-We're excited to have you on board as we work towards creating a valuable job portal for international students in South Korea. Let's make this semester a success!
+Our primary purpose is to empower international students in South Korea by providing them with a comprehensive job portal. We believe that international students bring unique skills and perspectives to the table, and our project aims to bridge the gap between this talented pool of individuals and the job opportunities available in South Korea. All in all, let's make it a success!
 
-Date: [Sep 21, 2023]
-Prepared by: [Pho Vu]
+Date: Sep 21, 2023
+Prepared by: Pho Vu
