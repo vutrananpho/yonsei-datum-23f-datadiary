@@ -2,7 +2,7 @@
 
 ## Project Overview 🚀
 
-Welcome to the Yonsei DATUM's project for international students in South Korea. This repository serves as our central platform for tracking weekly progress and sharing project updates.
+Welcome to the Yonsei DATUM's project for international students in South Korea. This repository serves as our central platform for tracking weekly progress and sharing project updates this fall 2023 semester.
 
 ## About Us 👩🏻‍💻
 
