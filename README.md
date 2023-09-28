@@ -1,5 +1,7 @@
 # Yonsei DATUM _Job Portal for International Students in SK 🇰🇷
 
+Visit our [Notion Page](https://www.notion.so/23-2-Yonsei-DATUM-Progress-Tracker-7948e56fc4674b98b6799bb852d6071c?pvs=4), Preplan Report, Midterm Report, & Final Report to catch up with us!
+
 ## Project Overview 🚀
 
 Welcome to the Yonsei DATUM's project for international students in South Korea. This repository serves as our central platform for tracking weekly progress and sharing project updates this fall 2023 semester.
